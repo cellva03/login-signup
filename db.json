@@ -1,0 +1,19 @@
+{
+    "users":[
+        {
+            "id" : 1,
+            "username" : "cellva",
+            "password" : "12345678",
+            "firstName" : "selva",
+            "lastName" : " vicky",
+            "frds" : [
+                {
+                    "id" : 1,
+                    "FirstName" : "vicky",
+                    "LastName" : "vicky@gmail.com",
+                    "phoneNo" : "1234"
+                }
+            ]
+        }
+    ]
+}
